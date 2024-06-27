@@ -6,9 +6,9 @@ We would like to express our sincere gratitude to all researchers and teams invo
 
 Here are the DOIs containing all the sequences used in this study:
 
-For Gamma variant (P.1): 
+For Gamma variant (P.1): 10.55876/gis8.240627uy, 10.55876/gis8.240627ug, 10.55876/gis8.240627xe, 10.55876/gis8.240627bx
 
-For Delta variant (B.1.617+AY*): 
+For Delta variant (B.1.617+AY*): 10.55876/gis8.240627ym, 10.55876/gis8.240627fq, 10.55876/gis8.240627rk, 10.55876/gis8.240627du
 
-For Omicron variant (BA.1): 
+For Omicron variant (BA.1): 10.55876/gis8.240627ct
 
